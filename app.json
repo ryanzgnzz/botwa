@@ -2,7 +2,7 @@
   "name": "heroku",
   "description": "WhatsApp bot nodejs",
   "repository": "https://github.com/ryanzgnzz/heroku",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "logo": "https://i.ibb.co/bPRR2S2/day.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
